@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanzhi Wang (王元植)"
-description              : "PhD student at Nanjing University of Science and Technology."
+description              : "PhD student at Nanjing University of Science and Technology. Research Intern at Kuaishou Technology"
 repository               : "mdswyz/mdswyz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanzhi Wang"
   avatar           : "wyz.jpg"
-  bio              : "(王元植)"
+  bio              : "王元植"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
