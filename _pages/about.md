@@ -47,6 +47,7 @@ Jialin Luo, **Yuanzhi Wang (Co-first Authors, Equal Contribution)**, Ziqi Gu, Yi
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,6 +77,112 @@ Incomplete Multimodality-Diffused Emotion Recognition
 [[Codes](https://github.com/mdswyz/IMDer)]
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Distribution-Consistent Modal Recovering for Incomplete Multimodal Learning
+
+**Yuanzhi Wang**, Zhen Cui, Yong Li
+
+*Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023*
+
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Distribution-Consistent_Modal_Recovering_for_Incomplete_Multimodal_Learning_ICCV_2023_paper.html)]
+[[Codes](https://github.com/mdswyz/DiCMoR)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Learning to Hallucinate Face in the Dark
+
+**Yuanzhi Wang**, Tao Lu, Yuan Yao, Yanduo Zhang, Zixiang, Xiong
+
+*IEEE Transactions on Multimedia (TMM), 2023*
+
+[[Paper](https://ieeexplore.ieee.org/document/10180077)]
+[[Codes](https://github.com/mdswyz/DARKFFHQ)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Decoupled Multimodal Distilling for Emotion Recognition
+
+Yong Li, **Yuanzhi Wang**, Zhen Cui
+
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, Highlight paper (10% of accepted papers)*
+
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Decoupled_Multimodal_Distilling_for_Emotion_Recognition_CVPR_2023_paper.html)]
+[[Codes](https://github.com/mdswyz/DMD)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FaceFormer: Aggregating Global and Local Representation for Face Hallucination
+
+**Yuanzhi Wang**, Tao Lu, Yanduo Zhang, Zhongyuan, Wang, Junjun, Jiang, Zixiang, Xiong
+
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022*
+
+**First Transformer-based Face Super-Resolution Method**
+
+[[Paper](https://ieeexplore.ieee.org/document/9964277)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Rethinking Prior-guided Face Super-resolution: A New Paradigm with Facial Component Prior
+
+Tao Lu, **Yuanzhi Wang**, Yanduo Zhang, Junjun, Jiang, Zhongyuan, Wang, Zixiang, Xiong
+
+*IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022*
+
+[[Paper](https://ieeexplore.ieee.org/document/9875217)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Face Hallucination via Split-Attention in Split-Attention Network
+
+Tao Lu, **Yuanzhi Wang (Corresponding Author)**, Yanduo Zhang, Yu Wang, Liu Wei, Zhongyuan Wang, Junjun Jiang
+
+*Proceedings of the 29th ACM International Conference on Multimedia (ACM MM), 2021*
+
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475682)]
+[[Codes](https://github.com/mdswyz/SISN-Face-Hallucination)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NTIRE 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multi-Scale Self-Calibrated Network for Image Light Source Transfer
+
+**Yuanzhi Wang**, Tao Lu, Yanduo Zhang, Yuntao Wu
+
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021*
+
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Wang_Multi-Scale_Self-Calibrated_Network_for_Image_Light_Source_Transfer_CVPRW_2021_paper.html)]
+[[Codes](https://github.com/mdswyz/MCN-light-source-transfer)]
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards
