@@ -31,16 +31,18 @@ He currently focuses on *multimodal perception and understanding under incomplet
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023.
 
 # 📝 Publications 
+<p><a href="https://scholar.google.com.hk/citations?user=pgZc4sgAAAAJ&hl=zh-CN">→ Full list (Google Scholar)</a></p> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/abs/2410.22362))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jialin Luo, **Yuanzhi Wang (Co-first Authors, Equal Contribution)**, Ziqi Gu, Yide Qiu, Shuaizhen Yao, Fuyun Wang, Chunyan Xu, Wenhua Zhang, Dan Wang, Zhen Cui
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+In the 38th Conference on Neural Information Processing Systems (NeurIPS), 2024
+
+[Codes](https://github.com/ljl5261/MMM-RS)
 </div>
 </div>
 
