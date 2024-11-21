@@ -47,6 +47,36 @@ Jialin Luo, **Yuanzhi Wang (Co-first Authors, Equal Contribution)**, Ziqi Gu, Yi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Edit Temporal-Consistent Videos with Image Diffusion Model
+
+**Yuanzhi Wang**, Yong Li, Xiaoya Zhang, Xin Liu, Anbo Dai, Antoni B. Chan, Zhen Cui
+
+*ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM), 2024*
+
+[[Paper](https://dl.acm.org/doi/10.1145/3691344)]
+[[Arxiv Version](https://arxiv.org/abs/2308.09091)]
+[[Codes](https://github.com/mdswyz/TCVE)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Incomplete Multimodality-Diffused Emotion Recognition
+
+**Yuanzhi Wang**, Yong Li, Zhen Cui
+
+*In the 37th Conference on Neural Information Processing Systems (NeurIPS), 2023*
+
+[[Paper](https://openreview.net/pdf?id=BuGFwUS9B3)]
+[[Codes](https://github.com/mdswyz/IMDer)]
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
