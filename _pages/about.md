@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/75d27dc1-e74b-4a14-a834-5ec167af1861)---
 permalink: /
 title: ""
 excerpt: ""
@@ -186,17 +186,18 @@ Multi-Scale Self-Calibrated Network for Image Light Source Transfer
 
 
 # 🎖 Honors and Awards
-- *2024.11* National Scholarship (The highest national scholarship for Ph.D students in China)
+- *2024.11* National Scholarship (**The highest national scholarship for students in China**)
 - *2023.11* Outstanding Ph.D student of Nanjing University of Science and Technology
-- *2022.06* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11* Outstanding Master's Thesis of Wuhan Institute of Technology
+- *2022.06* Outstanding Graduates of Wuhan Institute of Technology
+- *2021.11* National Scholarship (**The highest national scholarship for students in China**)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Now*, Ph.D in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology, China (Supervisor: Prof. Dr. Zhen Cui)
+- *2019.09 - 2022.06*, MS in Computer Technology at the School of Computer Science and Engineering, Wuhan Institute of Technology, China (Supervisor: Prof. Dr. Tao Lu)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.11*, Talk at Academic Conference on Artificial Intelligence in Jiangsu Province [[顶会顶刊论坛|模态缺失场景下的多模态情感识别](https://mp.weixin.qq.com/s/FBBQzuk-xnkHBQov4uoJfg)]
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 - Now*, Research Intern in the Department of Content Security, Kuaishou Technology (Beijing), China (Leader: Dr. Mengyi Liu)
