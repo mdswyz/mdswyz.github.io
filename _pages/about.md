@@ -42,8 +42,8 @@ Jialin Luo, **Yuanzhi Wang (Co-first Authors, Equal Contribution)**, Ziqi Gu, Yi
 
 *In the 38th Conference on Neural Information Processing Systems (NeurIPS), 2024*
 
-[Paper](https://arxiv.org/abs/2410.22362)
-[Codes](https://github.com/ljl5261/MMM-RS)
+[[Paper](https://arxiv.org/abs/2410.22362)]
+[[Codes](https://github.com/ljl5261/MMM-RS)]
 </div>
 </div>
 
