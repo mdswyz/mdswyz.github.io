@@ -33,7 +33,7 @@ He currently focuses on *multimodal perception and understanding under incomplet
 # 📝 Publications 
 <p><a href="https://scholar.google.com.hk/citations?user=pgZc4sgAAAAJ&hl=zh-CN">→ Full list (Google Scholar)</a></p> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation
