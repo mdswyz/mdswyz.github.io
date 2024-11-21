@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/75d27dc1-e74b-4a14-a834-5ec167af1861)---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -197,7 +197,7 @@ Multi-Scale Self-Calibrated Network for Image Light Source Transfer
 - *2019.09 - 2022.06*, MS in Computer Technology at the School of Computer Science and Engineering, Wuhan Institute of Technology, China (Supervisor: Prof. Dr. Tao Lu)
 
 # 💬 Invited Talks
-- *2024.11*, Talk at 
+- *2024.11*, Talk at Academic Conference on Artificial Intelligence in Jiangsu Province [[顶会顶刊论坛-模态缺失场景下的多模态情感识别](https://mp.weixin.qq.com/s/FBBQzuk-xnkHBQov4uoJfg)]
 
 # 💻 Internships
 - *2024.06 - Now*, Research Intern in the Department of Content Security, Kuaishou Technology (Beijing), China (Leader: Dr. Mengyi Liu)
