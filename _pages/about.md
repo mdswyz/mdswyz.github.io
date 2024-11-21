@@ -48,7 +48,7 @@ Jialin Luo, **Yuanzhi Wang (Co-first Authors, Equal Contribution)**, Ziqi Gu, Yi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/tomm2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Edit Temporal-Consistent Videos with Image Diffusion Model
@@ -64,7 +64,7 @@ Edit Temporal-Consistent Videos with Image Diffusion Model
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/nips2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Incomplete Multimodality-Diffused Emotion Recognition
@@ -79,7 +79,7 @@ Incomplete Multimodality-Diffused Emotion Recognition
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Distribution-Consistent Modal Recovering for Incomplete Multimodal Learning
@@ -94,7 +94,7 @@ Distribution-Consistent Modal Recovering for Incomplete Multimodal Learning
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2023</div><img src='images/tmm2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Learning to Hallucinate Face in the Dark
@@ -109,7 +109,7 @@ Learning to Hallucinate Face in the Dark
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/cvpr2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Decoupled Multimodal Distilling for Emotion Recognition
@@ -124,7 +124,7 @@ Yong Li, **Yuanzhi Wang**, Zhen Cui
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2022</div><img src='images/tcsvt2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FaceFormer: Aggregating Global and Local Representation for Face Hallucination
@@ -140,7 +140,7 @@ FaceFormer: Aggregating Global and Local Representation for Face Hallucination
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2022</div><img src='images/tnnls2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Rethinking Prior-guided Face Super-resolution: A New Paradigm with Facial Component Prior
@@ -154,7 +154,7 @@ Tao Lu, **Yuanzhi Wang**, Yanduo Zhang, Junjun, Jiang, Zhongyuan, Wang, Zixiang,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/acmmm2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Face Hallucination via Split-Attention in Split-Attention Network
@@ -169,7 +169,7 @@ Tao Lu, **Yuanzhi Wang (Corresponding Author)**, Yanduo Zhang, Yu Wang, Liu Wei,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NTIRE 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NTIRE 2021</div><img src='images/cvprw2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-Scale Self-Calibrated Network for Image Light Source Transfer
