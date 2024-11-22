@@ -44,6 +44,7 @@ Jialin Luo, **Yuanzhi Wang (Co-first Authors, Equal Contribution)**, Ziqi Gu, Yi
 
 [[Paper](https://arxiv.org/abs/2410.22362)]
 [[Codes](https://github.com/ljl5261/MMM-RS)]
+[[公众号报道](https://mp.weixin.qq.com/s/F8XGM6WZEWBiwojbLxbzRg)]
 </div>
 </div>
 
