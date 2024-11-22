@@ -20,7 +20,7 @@ redirect_from:
 Yuanzhi Wang is currently a PhD student at Nanjing University of Science and Technology, with Vision and Graph Group (VGG) affiliated with the PCA Lab, advised by Professor Zhen Cui. He is currently a research intern in the Department of Content Security, Kuaishou Technology.
 
 His research interests include **Multimodal Machine Learning**, **Generative Modeling**, **AIGC**, **Image/Video Processing and Analysis**, etc.
-He currently focuses on *multimodal perception and understanding under incomplete multimodal scenarios*, *multimodal/cross-modal generative modeling*, and *text-guided video generation/editing*.
+He currently focuses on **multimodal perception and understanding under incomplete multimodal scenarios**, **multimodal/cross-modal generative modeling**, and **text-guided video generation/editing**.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
