@@ -23,6 +23,7 @@ His research interests include **Multimodal Machine Learning**, **Generative Mod
 He currently focuses on **multimodal perception and understanding under incomplete multimodal scenarios**, **multimodal/cross-modal generative modeling**, and **text-guided video generation/editing**.
 
 # 🔥 News
+- *2024.11*: &nbsp;🔥🔥 Invited talk at [Conference on Artificial Intelligence in Jiangsu Province](https://mp.weixin.qq.com/s/FBBQzuk-xnkHBQov4uoJfg)
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by ACM TOMM 2024.
 - *2023.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2023.
@@ -187,6 +188,7 @@ Multi-Scale Self-Calibrated Network for Image Light Source Transfer
 
 
 # 🎖 Honors and Awards
+- *2024.11* Outstanding Ph.D student of Nanjing University of Science and Technology
 - *2024.11* National Scholarship (**The highest national scholarship for students in China**)
 - *2023.11* Outstanding Ph.D student of Nanjing University of Science and Technology
 - *2022.11* Outstanding Master's Thesis of Wuhan Institute of Technology
@@ -198,7 +200,7 @@ Multi-Scale Self-Calibrated Network for Image Light Source Transfer
 - *2019.09 - 2022.06*, MS in Computer Technology at the School of Computer Science and Engineering, Wuhan Institute of Technology, China (Supervisor: Prof. Dr. Tao Lu)
 
 # 💬 Invited Talks
-- *2024.11*, Talk at Academic Conference on Artificial Intelligence in Jiangsu Province [[顶会顶刊论坛-模态缺失场景下的多模态情感识别](https://mp.weixin.qq.com/s/FBBQzuk-xnkHBQov4uoJfg)]
+- *2024.11*, Talk at Conference on Artificial Intelligence in Jiangsu Province [[顶会顶刊论坛-模态缺失场景下的多模态情感识别](https://mp.weixin.qq.com/s/FBBQzuk-xnkHBQov4uoJfg)]
 
 # 💻 Internships
 - *2024.06 - Now*, Research Intern in the Department of Content Security, Kuaishou Technology (Beijing), China (Leader: Dr. Mengyi Liu)
