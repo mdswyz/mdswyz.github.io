@@ -23,6 +23,7 @@ His research interests include **Multimodal Machine Learning**, **Generative Mod
 He currently focuses on **multimodal perception and understanding under incomplete multimodal scenarios**, **multimodal/cross-modal generative modeling**, and **text-guided video generation/editing**.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025.
 - *2024.11*: &nbsp;🔥🔥 Invited talk at [Conference on Artificial Intelligence in Jiangsu Province](https://mp.weixin.qq.com/s/FBBQzuk-xnkHBQov4uoJfg)
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by ACM TOMM 2024.
