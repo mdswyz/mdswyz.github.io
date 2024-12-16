@@ -100,11 +100,12 @@ Distribution-Consistent Modal Recovering for Incomplete Multimodal Learning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2023</div><img src='images/tmm2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Learning to Hallucinate Face in the Dark
+Learning to Hallucinate Face in the Dark (**Highly Cited Papers**)
 
 **Yuanzhi Wang**, Tao Lu, Yuan Yao, Yanduo Zhang, Zixiang, Xiong
 
 *IEEE Transactions on Multimedia (TMM), 2023*
+
 
 [[Paper](https://ieeexplore.ieee.org/document/10180077)]
 [[Codes](https://github.com/mdswyz/DARKFFHQ)]
