@@ -35,6 +35,20 @@ He currently focuses on **multimodal perception and understanding under incomple
 # 📝 Publications 
 <p><a href="https://scholar.google.com.hk/citations?user=pgZc4sgAAAAJ&hl=zh-CN">→ Full list (Google Scholar)</a></p> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/reatco.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Re-Attentional Controllable Video Diffusion Editing
+
+**Yuanzhi Wang**, Yong Li, Mengyi Liu, Xiaoya Zhang, Xin Liu, Zhen Cui, Antoni B. Chan
+
+*In the 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*
+
+[[Paper](https://arxiv.org/abs/2412.11710)]
+[[Codes](https://github.com/mdswyz/ReAtCo)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
