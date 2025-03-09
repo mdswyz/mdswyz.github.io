@@ -23,6 +23,7 @@ His research interests include **Multimodal Machine Learning**, **Generative Mod
 He currently focuses on **Multimodal Content Generation, Perception, and Understanding**, **Multimodal/Cross-modal Generative Modeling**, and **Text-guided Image/Video Generation and Editing**.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🔥🔥 Invited talk at [VALSE Webinar](https://mp.weixin.qq.com/s/HXK1jlOgJ1zMQiq3NzX7AA)!
 - *2025.01*: &nbsp;🔥🔥 Our MMM-RS dataset is now [released](https://github.com/ljl5261/MMM-RS)!
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025.
