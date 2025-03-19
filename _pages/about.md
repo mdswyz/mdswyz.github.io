@@ -38,6 +38,21 @@ He currently focuses on **Multimodal Content Generation, Perception, and Underst
 # 📝 Publications 
 <p><a href="https://scholar.google.com.hk/citations?user=pgZc4sgAAAAJ&hl=zh-CN">→ Full list (Google Scholar)</a></p> 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/reatco.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection
+
+Fuyun Wang, Tong Zhang, **Yuanzhi Wang**, Yide Qiu, Xin Liu, Xu Guo, Zhen Cui
+
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
+
+[[Paper](https://arxiv.org/abs/2502.20981)]
+[[Codes](https://github.com/fuyunwang/DPDL)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/reatco.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
