@@ -64,6 +64,7 @@ Re-Attentional Controllable Video Diffusion Editing
 
 [[Paper](https://arxiv.org/abs/2412.11710)]
 [[Codes](https://github.com/mdswyz/ReAtCo)]
+[[Video Tutorial (VALSE Webinar)](https://www.bilibili.com/video/BV1SR9JYLE6f/?spm_id_from=333.1387.upload.video_card.click&vd_source=ecb1f32512689021a8ade2ff03caed2a)]
 </div>
 </div>
 
@@ -234,7 +235,7 @@ Multi-Scale Self-Calibrated Network for Image Light Source Transfer
 - *2019.09 - 2022.06*, MS in Computer Technology at the School of Computer Science and Engineering, Wuhan Institute of Technology, China (Supervisor: Prof. Dr. Tao Lu)
 
 # 💬 Invited Talks
-- *2025.01*, Talk at VALSE Webinar [[VALSE Webinar 25-01期: AAAI 2025论文解读-深度生成模型的进展与应用](https://mp.weixin.qq.com/s/HXK1jlOgJ1zMQiq3NzX7AA)]
+- *2025.01*, Talk at VALSE Webinar [[VALSE Webinar 25-01期: AAAI 2025论文解读-深度生成模型的进展与应用](https://mp.weixin.qq.com/s/HXK1jlOgJ1zMQiq3NzX7AA)], [[Video Tutorial](https://www.bilibili.com/video/BV1SR9JYLE6f/?spm_id_from=333.1387.upload.video_card.click&vd_source=ecb1f32512689021a8ade2ff03caed2a)]
 - *2024.11*, Talk at Conference on Artificial Intelligence in Jiangsu Province [[顶会顶刊论坛-模态缺失场景下的多模态情感识别](https://mp.weixin.qq.com/s/FBBQzuk-xnkHBQov4uoJfg)]
 
 # 💻 Internships
