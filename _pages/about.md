@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanzhi Wang is currently a PhD student at Nanjing University of Science and Technology, with Vision and Graph Group (VGG) affiliated with the PCA Lab, advised by Professor Zhen Cui. He is currently a research intern in the Department of Content Security, Kuaishou Technology.
+Yuanzhi Wang is currently a PhD student at Nanjing University of Science and Technology, with Vision and Graph Group (VGG) affiliated with the PCA Lab, advised by Professor Zhen Cui. He was a research intern in the Department of Content Security, Kuaishou Technology. He is currently a research intern in the Tencent Hunyuan (入选2025腾讯犀牛鸟精英人才计划).
 
 His research interests include **Multimodal Machine Learning**, **Generative Modeling**, **AIGC**, **Image/Video Processing and Analysis**, etc.
 He currently focuses on **Multimodal Content Generation, Perception, and Understanding**, **Multimodal/Cross-modal Generative Modeling**, and **Text-guided Image/Video Generation and Editing**.
@@ -240,4 +240,5 @@ Multi-Scale Self-Calibrated Network for Image Light Source Transfer
 - *2024.11*, Talk at Conference on Artificial Intelligence in Jiangsu Province [[顶会顶刊论坛-模态缺失场景下的多模态情感识别](https://mp.weixin.qq.com/s/FBBQzuk-xnkHBQov4uoJfg)]
 
 # 💻 Internships
-- *2024.06 - Now*, Research Intern in the Department of Content Security, Kuaishou Technology (Beijing), China (Leader: Dr. Mengyi Liu)
+- *2025.06 - Now*, Research Intern in the Tencent Hunyuan (2025腾讯犀牛鸟精英人才计划), Shanghai, China
+- *2024.06 - 2025.05*, Research Intern in the Department of Content Security, Kuaishou Technology (Beijing), China (Leader: Dr. Mengyi Liu)
