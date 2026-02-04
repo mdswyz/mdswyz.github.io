@@ -23,6 +23,11 @@ His research interests include **Multimodal Machine Learning**, **Generative Mod
 He currently focuses on **Multimodal Content Generation, Perception, and Understanding**, **Multimodal/Cross-modal Generative Modeling**, and **Text-guided Image/Video Generation and Editing**.
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by Nature Machine Intelligence 2026.
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2026.
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT 2026.
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS 2025.
+- *2025.05*: &nbsp;🔥🔥 Selected for the 2025 Tencent Hunyuan Rhino-Bird Elite Talent!
 - *2025.05*: &nbsp;🔥🔥 Re-Attentional Controllable Video Diffusion Editing has been selected for [VALSE 2025 Poster (A02)](https://valser.org/2025/#/poster)!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🔥🔥 Invited talk at [VALSE Webinar](https://mp.weixin.qq.com/s/HXK1jlOgJ1zMQiq3NzX7AA)!
@@ -224,6 +229,8 @@ Multi-Scale Self-Calibrated Network for Image Light Source Transfer
 
 
 # 🎖 Honors and Awards
+- *2025.05* Selected for the 2025 Tencent Rhino-Bird Research Elite Program
+- *2025.05* Selected as a Candidate for the Outstanding Doctoral Dissertation Program at NJUST
 - *2024.11* Outstanding Ph.D student of Nanjing University of Science and Technology
 - *2024.11* National Scholarship (**The highest national scholarship for students in China**)
 - *2023.11* Outstanding Ph.D student of Nanjing University of Science and Technology
