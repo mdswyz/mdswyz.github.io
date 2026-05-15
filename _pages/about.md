@@ -23,6 +23,7 @@ His research interests include **Multimodal Machine Learning**, **Generative Mod
 He currently focuses on **Multimodal Content Generation, Perception, and Understanding**, **Multimodal/Cross-modal Generative Modeling**, and **Text-guided Image/Video Generation and Editing**.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Three papers are accepted by ICML 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Nature Machine Intelligence 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2026.
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT 2026.
