@@ -60,6 +60,45 @@ Implicit Preference Alignment for Human Image Animation
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NMI 2026</div><img src='images/NMI_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Two-dimensional geometric template diffusion for boosting single-sequence protein structure prediction
+
+Xudong Wang, Tong Zhang, Zhen Cui, Xu Guo, Fuyun Wang, **Yuanzhi Wang**, Xing Cai, Wenming Zheng
+
+*Nature Machine Intelligence (NMI), 2026*
+
+[[Paper](https://www.nature.com/articles/s42256-026-01210-2)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/TPAMI_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Decoupled Hierarchical Distillation for Multimodal Emotion Recognition
+
+Yong Li, **Yuanzhi Wang**, Yi Ding, Shiqing Zhang, Ke Lu, Cuntai Guan
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026*
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/11370718)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/TCSVT_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Training-Free Controllable Text-guided Video Editing
+
+**Yuanzhi Wang**, Yong Li, Mengyi Liu, Xiaoya Zhang, Zhen Cui, Jian Yang
+
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026*
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/11343848)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
