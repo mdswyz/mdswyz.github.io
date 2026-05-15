@@ -46,6 +46,20 @@ He currently focuses on **Multimodal Content Generation, Perception, and Underst
 <p><a href="https://scholar.google.com.hk/citations?user=pgZc4sgAAAAJ&hl=zh-CN">→ Full list (Google Scholar)</a></p> 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/IPA_ICML_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Implicit Preference Alignment for Human Image Animation
+
+**Yuanzhi Wang**, Xuhua Ren, Jiaxiang Cheng, Bing Ma, Kai Yu, Tianxiang Zheng, Qinglin Lu, Zhen Cui
+
+*International Conference on Machine Learning (ICML), 2026*
+
+[[Paper](https://arxiv.org/abs/2605.07545)]
+[[Codes](https://github.com/mdswyz/IPA)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
