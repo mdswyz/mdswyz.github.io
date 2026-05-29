@@ -23,6 +23,8 @@ His research interests include **Multimodal Machine Learning**, **Generative Mod
 He currently focuses on **Multimodal Content Generation, Perception, and Understanding**, **Multimodal/Cross-modal Generative Modeling**, and **Text-guided Image/Video Generation and Editing**.
 
 # 🔥 News
+- *2026.05*: &nbsp;🔥🔥 I will be joining Nanyang Technological University as a Research Fellow.
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP 2026.
 - *2026.05*: &nbsp;🎉🎉 Three papers are accepted by ICML 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Nature Machine Intelligence 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2026.
@@ -292,14 +294,15 @@ Multi-Scale Self-Calibrated Network for Image Light Source Transfer
 - *2022.06* Outstanding Graduates of Wuhan Institute of Technology
 - *2021.11* National Scholarship (**The highest national scholarship for students in China**)
 
+# 💻 Work Experience
+- *2026.06 - Now*, Research Fellow at Nanyang Technological University, Singapore (Supervisor: Prof. Dr. Shijian Lu)
+- *2025.06 - 2026.05*, Research Intern in the Tencent Hunyuan (2025腾讯犀牛鸟精英人才计划), Shanghai, China (Mentor: Dr. Xuhua Ren; Leader: Drs. Tianxiang Zheng, Qinglin Lu)
+- *2024.06 - 2025.05*, Research Intern in the Kuaishou Technology (Beijing), China (Leader: Dr. Mengyi Liu)
+
 # 📖 Educations
-- *2022.09 - Now*, Ph.D in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology, China (Supervisor: Prof. Dr. Zhen Cui)
+- *2022.09 - 2026.04*, Ph.D in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology, China (Supervisor: Prof. Dr. Zhen Cui)
 - *2019.09 - 2022.06*, MS in Computer Technology at the School of Computer Science and Engineering, Wuhan Institute of Technology, China (Supervisor: Prof. Dr. Tao Lu)
 
 # 💬 Invited Talks
 - *2025.01*, Talk at VALSE Webinar [[VALSE Webinar 25-01期: AAAI 2025论文解读-深度生成模型的进展与应用](https://mp.weixin.qq.com/s/HXK1jlOgJ1zMQiq3NzX7AA)], [[Video Tutorial](https://www.bilibili.com/video/BV1SR9JYLE6f/?spm_id_from=333.1387.upload.video_card.click&vd_source=ecb1f32512689021a8ade2ff03caed2a)]
 - *2024.11*, Talk at Conference on Artificial Intelligence in Jiangsu Province [[顶会顶刊论坛-模态缺失场景下的多模态情感识别](https://mp.weixin.qq.com/s/FBBQzuk-xnkHBQov4uoJfg)]
-
-# 💻 Internships
-- *2025.06 - Now*, Research Intern in the Tencent Hunyuan (2025腾讯犀牛鸟精英人才计划), Shanghai, China
-- *2024.06 - 2025.05*, Research Intern in the Kuaishou Technology (Beijing), China (Leader: Dr. Mengyi Liu)
