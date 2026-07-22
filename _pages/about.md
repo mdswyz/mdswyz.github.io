@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanzhi Wang is currently a PhD student at Nanjing University of Science and Technology, with Vision and Graph Group (VGG) affiliated with the PCA Lab, advised by Professor Zhen Cui. He was a research intern in the Kuaishou Technology. He is currently a research intern in the Tencent Hunyuan (入选2025腾讯犀牛鸟精英人才计划).
+Yuanzhi Wang is currently a Research Fellow at Nanyang Technological University, Singapore, working with Professor Shijian Lu. He received his Ph.D. from Nanjing University of Science and Technology, where he was with the Vision and Graph Group (VGG) affiliated with the PCA Lab and advised by Professor Zhen Cui. He was a research intern at Kuaishou Technology and Tencent Hunyuan (入选2025腾讯犀牛鸟精英人才计划).
 
 His research interests include **Multimodal Machine Learning**, **Generative Modeling**, **AIGC**, **Image/Video Processing and Analysis**, etc.
 He currently focuses on **Multimodal Content Generation, Perception, and Understanding**, **Multimodal/Cross-modal Generative Modeling**, and **Text-guided Image/Video Generation and Editing**.
 
 # 🔥 News
-- *2026.05*: &nbsp;🔥🔥 I will be joining Nanyang Technological University as a Research Fellow.
+- *2026.06*: &nbsp;🔥🔥 I joined Nanyang Technological University as a Research Fellow.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP 2026.
 - *2026.05*: &nbsp;🎉🎉 Three papers are accepted by ICML 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Nature Machine Intelligence 2026.
