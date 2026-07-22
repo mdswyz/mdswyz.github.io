@@ -23,6 +23,8 @@ His research interests include **Multimodal Machine Learning**, **Generative Mod
 He currently focuses on **Multimodal Content Generation, Perception, and Understanding**, **Multimodal/Cross-modal Generative Modeling**, and **Text-guided Image/Video Generation and Editing**.
 
 # 🔥 News
+- *2026.07*: &nbsp;🔥🔥 Selected for the Recognition Award of 2025 Tencent Rhino-bird Research Elite Program
+- *2026.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2026.
 - *2026.06*: &nbsp;🔥🔥 I joined Nanyang Technological University as a Research Fellow.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP 2026.
 - *2026.05*: &nbsp;🎉🎉 Three papers are accepted by ICML 2026.
