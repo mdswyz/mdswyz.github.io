@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   update:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
@@ -33,11 +33,21 @@ jobs:
           python-version: "3.10"
 
       - name: Fetch citation data
+        id: fetch
         env:
           GOOGLE_SCHOLAR_ID: pgZc4sgAAAAJ
-        run: python google_scholar_crawler/main.py
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: |
+          if [ -z "$SERPAPI_API_KEY" ]; then
+            echo "SERPAPI_API_KEY is not configured; keeping the last verified count."
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          python google_scholar_crawler/main.py
+          echo "updated=true" >> "$GITHUB_OUTPUT"
 
       - name: Publish citation data
+        if: steps.fetch.outputs.updated == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
