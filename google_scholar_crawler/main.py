@@ -28,7 +28,7 @@ class ScholarMetricsParser(HTMLParser):
             self.metrics.append(data.strip())
 
 
-def fetch_citations(scholar_id):
+def fetch_direct_citations(scholar_id):
     query = urlencode({"user": scholar_id, "hl": "en"})
     request = Request(
         f"https://scholar.google.com/citations?{query}",
@@ -56,12 +56,48 @@ def fetch_citations(scholar_id):
     return int(parser.metrics[0].replace(",", ""))
 
 
+def fetch_serpapi_citations(scholar_id, api_key):
+    query = urlencode(
+        {
+            "engine": "google_scholar_author",
+            "author_id": scholar_id,
+            "hl": "en",
+            "api_key": api_key,
+        }
+    )
+    request = Request(
+        f"https://serpapi.com/search.json?{query}",
+        headers={"User-Agent": "mdswyz.github.io citation updater"},
+    )
+
+    with urlopen(request, timeout=25) as response:
+        data = json.loads(response.read().decode("utf-8"))
+
+    if data.get("error"):
+        raise RuntimeError("SerpApi request failed")
+
+    for metric in data.get("cited_by", {}).get("table", []):
+        citations = metric.get("citations")
+        if isinstance(citations, dict) and "all" in citations:
+            return int(citations["all"])
+
+    raise RuntimeError("SerpApi returned no citation metrics")
+
+
+def fetch_citations(scholar_id, api_key):
+    if api_key:
+        return fetch_serpapi_citations(scholar_id, api_key)
+    return fetch_direct_citations(scholar_id)
+
+
 scholar_id = os.environ["GOOGLE_SCHOLAR_ID"]
-citation_count = fetch_citations(scholar_id)
+serpapi_key = os.environ.get("SERPAPI_API_KEY", "").strip()
+citation_count = fetch_citations(scholar_id, serpapi_key)
 author = {
     "scholar_id": scholar_id,
     "citedby": citation_count,
     "updated": datetime.now(timezone.utc).isoformat(),
+    "automatic": bool(serpapi_key),
     "publications": {},
 }
 
