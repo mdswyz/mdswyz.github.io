@@ -10,6 +10,7 @@
     var repository = '{{ site.repository }}';
     var primaryUrl = 'https://raw.githubusercontent.com/' + repository + '/google-scholar-stats/gs_data.json';
     var fallbackUrl = 'https://cdn.jsdelivr.net/gh/' + repository + '@google-scholar-stats/gs_data.json';
+    var verifiedUrl = 'https://raw.githubusercontent.com/' + repository + '/main/google_scholar_crawler/results/gs_data.json';
 
     function fetchStats(url) {
         return fetch(url + '?v=' + Date.now(), { cache: 'no-store' }).then(function (response) {
@@ -29,7 +30,9 @@
         if (totalCitationElement) {
             totalCitationElement.textContent = totalCitation.toLocaleString('en-US');
             if (data.updated) {
-                totalCitationElement.title = 'Updated daily; last fetched ' + data.updated + ' UTC';
+                totalCitationElement.title = data.automatic === false
+                    ? 'Google Scholar; last verified ' + data.updated
+                    : 'Updated daily; last fetched ' + data.updated + ' UTC';
             }
         }
 
@@ -46,11 +49,14 @@
         .catch(function () {
             return fetchStats(fallbackUrl);
         })
+        .catch(function () {
+            return fetchStats(verifiedUrl);
+        })
         .then(renderStats)
         .catch(function () {
             if (totalCitationElement) {
                 totalCitationElement.textContent = 'unavailable';
-                totalCitationElement.title = 'Citation data will appear after the next automatic update.';
+                totalCitationElement.title = 'Citation data is unavailable.';
             }
         });
 })();
