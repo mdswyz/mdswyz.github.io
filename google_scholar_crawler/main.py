@@ -1,55 +1,68 @@
 import json
 import os
-import sys
-import time
 from datetime import datetime, timezone
+from html.parser import HTMLParser
 from pathlib import Path
-
-from scholarly import ProxyGenerator, scholarly
-
-
-SECTIONS = ["basics", "indices", "counts"]
+from urllib.parse import urlencode
+from urllib.request import Request, urlopen
 
 
-def query_author(scholar_id):
-    author = scholarly.search_author_id(scholar_id)
-    return scholarly.fill(author, sections=SECTIONS)
+class ScholarMetricsParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.capture_metric = False
+        self.metrics = []
+
+    def handle_starttag(self, tag, attrs):
+        attributes = dict(attrs)
+        classes = attributes.get("class", "").split()
+        if tag == "td" and "gsc_rsb_std" in classes:
+            self.capture_metric = True
+
+    def handle_endtag(self, tag):
+        if tag == "td":
+            self.capture_metric = False
+
+    def handle_data(self, data):
+        if self.capture_metric and data.strip():
+            self.metrics.append(data.strip())
 
 
-def fetch_author(scholar_id):
-    try:
-        return query_author(scholar_id)
-    except Exception as error:
-        last_error = error
-        print(f"Direct Google Scholar request failed: {error}", file=sys.stderr)
+def fetch_citations(scholar_id):
+    query = urlencode({"user": scholar_id, "hl": "en"})
+    request = Request(
+        f"https://scholar.google.com/citations?{query}",
+        headers={
+            "Accept-Language": "en-US,en;q=0.9",
+            "User-Agent": (
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/138.0 Safari/537.36"
+            ),
+        },
+    )
 
-    proxy = ProxyGenerator()
-    if not proxy.FreeProxies():
-        raise RuntimeError("No working proxy was available") from last_error
+    with urlopen(request, timeout=25) as response:
+        html = response.read().decode("utf-8", errors="replace")
 
-    scholarly.use_proxy(proxy)
-    for attempt in range(1, 4):
-        try:
-            return query_author(scholar_id)
-        except Exception as error:
-            last_error = error
-            print(f"Proxy attempt {attempt} failed: {error}", file=sys.stderr)
-            if attempt < 3:
-                time.sleep(attempt * 5)
+    if 'id="gsc_prf_in"' not in html:
+        raise RuntimeError("Google Scholar returned a blocked or unexpected page")
 
-    raise RuntimeError("Google Scholar could not be reached after retries") from last_error
+    parser = ScholarMetricsParser()
+    parser.feed(html)
+    if not parser.metrics:
+        raise RuntimeError("Google Scholar returned no citation metrics")
+
+    return int(parser.metrics[0].replace(",", ""))
 
 
-author = fetch_author(os.environ["GOOGLE_SCHOLAR_ID"])
-if "citedby" not in author:
-    raise RuntimeError("Google Scholar returned no citation count")
-
-author["updated"] = datetime.now(timezone.utc).isoformat()
-publications = author.get("publications", [])
-author["publications"] = {
-    publication["author_pub_id"]: publication
-    for publication in publications
-    if "author_pub_id" in publication
+scholar_id = os.environ["GOOGLE_SCHOLAR_ID"]
+citation_count = fetch_citations(scholar_id)
+author = {
+    "scholar_id": scholar_id,
+    "citedby": citation_count,
+    "updated": datetime.now(timezone.utc).isoformat(),
+    "publications": {},
 }
 
 print(json.dumps(author, indent=2, ensure_ascii=False))
@@ -63,7 +76,7 @@ with (results_dir / "gs_data.json").open("w", encoding="utf-8") as outfile:
 shieldio_data = {
     "schemaVersion": 1,
     "label": "citations",
-    "message": str(author["citedby"]),
+    "message": str(citation_count),
 }
 with (results_dir / "gs_data_shieldsio.json").open("w", encoding="utf-8") as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
