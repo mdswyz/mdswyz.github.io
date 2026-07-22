@@ -50,6 +50,18 @@ He currently focuses on **Multimodal Content Generation, Perception, and Underst
 <p><a href="https://scholar.google.com.hk/citations?user=pgZc4sgAAAAJ&hl=zh-CN">→ Full list (Google Scholar)</a></p> 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/IMPFR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Incomplete Multimodal Probability Flow Recovery for Emotion Recognition
+
+**Yuanzhi Wang**, Zhen Cui, Mengyi Liu, Xiaoya Zhang, Zechao Li
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026*
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/11610929)]
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/IPA_ICML_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
