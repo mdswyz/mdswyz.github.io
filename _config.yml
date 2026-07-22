@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanzhi Wang (王元植)"
-description              : "PhD student at Nanjing University of Science and Technology. Research Intern at Tencent Hunyuan"
+description              : "Research Fellow at Nanyang Technological University"
 repository               : "mdswyz/mdswyz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yuanzhi Wang"
   avatar           : "wyz.jpg"
   bio              : "王元植"
-  location         : "Shanghai, China"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?=pgZc4sgAAAAJ&hl=zh-CN"
