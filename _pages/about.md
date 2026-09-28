@@ -23,6 +23,7 @@ His research interests include **Multimodal Machine Learning**, **Generative Mod
 He currently focuses on **Multimodal Content Generation, Perception, and Understanding**, **Multimodal/Cross-modal Generative Modeling**, and **Text-guided Image/Video Generation and Editing**.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2026.
 - *2026.07*: &nbsp;🔥🔥 Selected for the Recognition Award of 2025 Tencent Rhino-bird Research Elite Program
 - *2026.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2026.
 - *2026.06*: &nbsp;🔥🔥 I joined Nanyang Technological University as a Research Fellow.
@@ -49,6 +50,20 @@ He currently focuses on **Multimodal Content Generation, Perception, and Underst
 # 📝 Publications 
 <p><a href="https://scholar.google.com.hk/citations?user=pgZc4sgAAAAJ&hl=zh-CN">→ Full list (Google Scholar)</a></p> 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/NIPS2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation
+
+**Yuanzhi Wang**, Xuhua Ren, Jiaxiang Cheng, Bing Ma, Kai Yu, Sen Liang, Wenyue Li, Tianxiang Zheng, Qinglin Lu, Zhen Cui
+
+*In the 40th Conference on Neural Information Processing Systems (NeurIPS), 2026*
+
+[[Paper](https://arxiv.org/abs/2605.04702)]
+[[Project Page](https://mdswyz.github.io/FaithfulFaces/)]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/IMPFR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
